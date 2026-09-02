@@ -3,7 +3,7 @@
 موقع دعم فني متكامل للكمبيوتر مع بوت ذكاء اصطناعي.
 
 ## 🔗 الموقع
-[mysupport.great-site.net](https://mysupport.great-site.net)
+[mysupport.great-site.net](https://amazing-meerkat-c23891.netlify.app/)
 
 ## 📋 الصفحات
 | الصفحة | الوصف |
