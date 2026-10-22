@@ -30,5 +30,5 @@ tclsupport.great-site.net
 
 
 ## 👨‍💻 المطور
-**Hussein** — King Solo  
-IT Student @ Jazan University
+**Hussein Motahar** 
+IT graduate @ Jazan University
