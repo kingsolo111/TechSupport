@@ -1,3 +1,5 @@
 config.php
 *.zip
 logs/
+*.sql
+database_setup.sql
